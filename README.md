@@ -710,7 +710,7 @@ Displays real-time environmental and operational sensor data through the Node-RE
 
 ```text
 
--[Insert Dashboard Screenshot Here]
+![Main Dashboard](02%20-%20Screenshots/Dashboard/dashboard-main.png)
 
 ```
 
