@@ -324,19 +324,12 @@ The platform consists of the following major layers:
 
 
 
-Insert the architecture diagram below:
 
 
 
-```text
-
-architecture/architecture.png
-
-```
+![System Architecture](01%20-%20Architecture/architecture.png)
 
 
-
-(We will link the actual image after the GitHub repository is created.)
 
 
 
@@ -708,12 +701,8 @@ Displays real-time environmental and operational sensor data through the Node-RE
 
 
 
-```text
 
 ![Main Dashboard](02%20-%20Screenshots/Dashboard/dashboard-main.png)
-
-```
-
 
 
 ----
@@ -728,11 +717,8 @@ Provides operational insights, sensor trends, and performance monitoring informa
 
 
 
-```text
 
--[Insert Analytics Screenshot Here]
-
-```
+![Analytics Dashboard](02%20-%20Screenshots/Analytics/analytics-overview.png)
 
 
 
@@ -746,13 +732,7 @@ Provides operational insights, sensor trends, and performance monitoring informa
 
 Displays system health, MQTT communication status, and platform operational metrics.
 
-
-
-```text
-
--[Insert System Monitoring Screenshot Here]
-
-```
+![System Monitoring](02%20-%20Screenshots/System%20Monitoring/system-monitoring.png)
 
 
 
@@ -767,12 +747,7 @@ Displays system health, MQTT communication status, and platform operational metr
 Provides manual operational controls and supervisory management functions.
 
 
-
-```text
-
--[Insert Control Center Screenshot Here]
-
-```
+![Control Center](02%20-%20Screenshots/Control%20Center/control-center.png)
 
 
 
@@ -788,11 +763,7 @@ Provides a virtual representation of the agricultural environment and operationa
 
 
 
-```text
-
-[Insert Digital Twin Screenshot Here]
-
-```
+![Digital Twin](02%20-%20Screenshots/Digital%20Twin/digital-twin.png)
 
 
 
@@ -812,11 +783,7 @@ Demonstrates cloud-based storage and centralized telemetry management.
 
 
 
-```text
-
--[Insert Firebase Database Screenshot Here]
-
-```
+![Firebase Database](02%20-%20Screenshots/Firebase/firebase-database.png)
 
 
 
@@ -828,11 +795,7 @@ Shows the Node-RED implementation responsible for transmitting platform data to 
 
 
 
-```text
-
--[Insert Firebase Integration Flow Screenshot Here]
-
-```
+![Firebase Integration Flow](02%20-%20Screenshots/Firebase/firebase-integration-flow.png)
 
 
 
@@ -842,8 +805,7 @@ Shows the Node-RED implementation responsible for transmitting platform data to 
 
 Demonstrates the storage and exploration of historical telemetry data used for analytics and visualization.
 
-[Insert InfluxDB Data Explorer Screenshot Here]
-
+![InfluxDB Data Explorer](02%20-%20Screenshots/InfluxDB/influxdb-data-explorer.png)
 
 
 ### Grafana Analytics Dashboard
@@ -854,11 +816,7 @@ Provides historical data visualization and time-series analytics using InfluxDB.
 
 
 
-```text
-
--[Insert Grafana Dashboard Screenshot Here]
-
-```
+![Grafana Dashboard](02%20-%20Screenshots/Grafana/grafana-dashboard.png)
 
 
 
@@ -878,11 +836,7 @@ Demonstrates the automation engine responsible for irrigation, environmental res
 
 
 
-```text
-
--[Insert Automation Flow Screenshot Here]
-
-```
+![Automation Flow](02%20-%20Screenshots/Node-RED%20Flows/automation-flow.png)
 
 
 
@@ -894,11 +848,7 @@ Shows the implementation of alert generation and event monitoring services.
 
 
 
-```text
-
--[Insert Alerts Flow Screenshot Here]
-
-```
+![Alerts Flow](02%20-%20Screenshots/Node-RED%20Flows/alerts-flow.png)
 
 
 
@@ -910,11 +860,7 @@ Illustrates cloud data synchronization between Node-RED and Firebase.
 
 
 
-```text
-
--[Insert Firebase Flow Screenshot Here]
-
-```
+![Firebase Flow](02%20-%20Screenshots/Node-RED%20Flows/firebase-flow.png)
 
 
 
@@ -925,12 +871,7 @@ Illustrates cloud data synchronization between Node-RED and Firebase.
 Demonstrates historical telemetry storage for Grafana analytics.
 
 
-
-```text
-
--[Insert InfluxDB Flow Screenshot Here]
-
-```
+![InfluxDB Flow](02%20-%20Screenshots/Node-RED%20Flows/influxdb-flow.png)
 
 
 
